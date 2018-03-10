@@ -19,7 +19,7 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <h2><p style="text-transform: uppercase;">{{ site.description }}</p></h2>
             </div>
         </div>
     </section>
@@ -28,14 +28,12 @@
     <div id="main">
 
         <!-- One -->
-        {% include tiles.html %}
-
-        <!-- Two -->
-        <section id="two">
+        <section id="one">
             <div class="inner">
                 <p>{{ content }}</p>
             </div>
         </section>
+		
 
     </div>
 

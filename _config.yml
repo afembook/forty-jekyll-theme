@@ -1,7 +1,7 @@
 # site settings
 title: Edinburgh Anarchist Feminist Bookfair 2018
 email: eafb@riseup.net
-description: An anarchist feminist bookfair in Edinburgh.
+description: An Anarchist Feminist Bookfair at Augustine United Church in Edinburgh
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -17,8 +17,8 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/edinanarchfembookfair/
-github_url:
-gitlab_url: https://gitlab.com/u/afembook
+github_url: https://github.com/afembook
+gitlab_url: 
 instagram_url: https://instagram.com
 pinterest_url:
 slack_url:
