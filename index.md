@@ -5,7 +5,7 @@ landing-title: 'Coming July 21st'
 description: null
 image: null
 author: null
-show-menu: false
+show-menu: true
 ---
 
 ## What is the Edinburgh Anarchist Feminist Bookfair?
