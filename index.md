@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Edinburgh Anarchist Feminist Bookfair 2018
-landing-title: 'Coming July 21st'
+landing-title: 'Saturday July 21st'
 description: null
 image: null
 author: null
@@ -15,7 +15,6 @@ The bookfair is an all-day event open to everybody, not just anarchists or femin
 ## How can I get involved?
 
 If you'd like to help organise the bookfair, fundraise, or host a stall, talk or workshop, email us using the form below or at {{site.email}}
-
 We also have a specific fundraiser for childcare at the event to allow us to provide a free, professional crèche. You can find that [here](https://fundrazr.com/91KoOa?ref=ab_27Avq2_ab_2Q6Bt6jnIMa2Q6Bt6jnIMa "Childcare Fundrazr").
 
 ## Who are we?
