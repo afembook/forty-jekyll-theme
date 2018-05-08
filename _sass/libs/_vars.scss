@@ -19,29 +19,48 @@
 	);
 
 // Font.
+
+ 	@font-face{
+		font-family:		Gill_Shadow;
+		src:				url('../fonts/ufonts.com_gill-sans-mt-shadow.TTF');
+	}
+	@font-face{
+		font-family:		Helvetica;
+		src:				url('../fonts/HelveticaLTStd-Roman.otf');
+	}
+	@font-face{
+		font-family:		Helvetica_Black;
+		src:				url('../fonts/HelveticaLTStd-BoldCond.otf');
+	}
+	@font-face{
+		font-family:		Leafy;
+		src:				url('../fonts/leafy.otf');
+	}
+	
+		
 	$font: (
-		family:				('Source Sans Pro', Helvetica, sans-serif),
+		family:				('Helvetica', 'Source Sans Pro', sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				300,
 		weight-bold:		600,
 		letter-spacing:		0.025em,
-		letter-spacing-alt:	0.25em
+		letter-spacing-alt:	0.125em
 	);
 
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
+		bg:					rgba(201,199,211,1),
+		bg-alt:				rgba(207,215,252,0.7),
+		fg:					rgba(36,8,48,1),
+		fg-bold:			rgba(36,8,48,1),
+		fg-light:			rgba(36,8,48,0.6),
+		border:				rgba(36,8,48,0.6),
+		border-bg:			rgba(36,8,48,0.1),
+		highlight:			rgba(163,78,116,1),
 		accent1:			#6fc3df,
 		accent2:			#8d82c4,
 		accent3:			#ec8d81,
 		accent4:			#e7b788,
 		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		accent6:			#87c5a4	
 	);

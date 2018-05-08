@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Edinburgh Anarchist Feminist Bookfair 2018
-landing-title: 'Saturday July 21st'
+landing-title: 'Edinburgh Anarchist Feminist Bookfair 2018'
 description: null
 image: null
 author: null
@@ -9,17 +9,17 @@ show-menu: true
 ---
 
 ## What is the Edinburgh Anarchist Feminist Bookfair?
+The Edinburgh Anarchist Feminist Bookfair is an all-day event open to everybody, not just anarchists or feminists. We want to provide an open, and welcoming point for people of all genders to learn more about both anarchism and feminism, as well for as folks organising on the ground to explore ideas in-depth together, work through concepts and reach concrete plans.
 
-The bookfair is an all-day event open to everybody, not just anarchists or feminists. It will provide spaces for stalls, talks, workshops, film screenings, and performances, all promoting things from an anarchist feminist perspective. We have **successfully** fundraised for a professionally run crèche and will have food on hand to help with accessibility.
+The bookfair will start at 10:30 and run until 18:00 on Saturday the 21st of July, 2018. As well as space for stalls from publishers, book shops, zine makers and grassroots organising campaigns we'll be hosting workshops and talks throughout the day on a wide range of issues, from abortion rights to mutual aid, social reproduction theory to housing, sex work to community accountability. There'll even be a practical session on vehicle maintenance for women and non-binary folk if we can find somewhere to park!
 
-## When is the bookfair?
+After the bookfair there will be an afterparty, details of which will be finalised and made public soon.
 
-The bookfair will start at 10:30 and run until 18:00 on Saturday the 21st of July, 2018.
+To help with accessibility, we've arranged for a free, professional crèche. See our [Childcare]({% link childcare.md %}) page for more details if this is something you're interested in.
 
 ## How can I get involved?
 
-If you'd like to help organise the bookfair, fundraise, or host a stall, talk or workshop, email us using the form below or at {{site.email}}
-~~We also have a specific fundraiser for childcare at the event to allow us to provide a free, professional crèche. You can find that [here](https://fundrazr.com/91KoOa?ref=ab_27Avq2_ab_2Q6Bt6jnIMa2Q6Bt6jnIMa "Childcare Fundrazr").~~**Update** We have now met our target for the fundraiser and will be providing a free, professional crèche, we'll have details on how to book a place soon. 
+If you'd like to help organise the bookfair, fundraise, or host a stall, talk or workshop, email us using the form below or at {{site.email}}. We're particularly looking for folk to help with publicity in the run up to the event and to help with logisitics on the day.
 
 ## Who are we?
 

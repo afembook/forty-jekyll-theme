@@ -2,7 +2,7 @@
 layout: post
 title: Inclusion
 description: null
-image: null
+image: assets/images/dont_let_racism_divide_us.jpg
 author: null
 show-menu: true
 nav-menu: true

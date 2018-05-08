@@ -61,6 +61,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
+		font-family: Helvetica_Black;
 		font-weight: _font(weight-bold);
 		line-height: 1.65;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
@@ -73,6 +74,7 @@
 
 	h1 {
 		font-size: 2.5em;
+		font-family: 'leafy';
 	}
 
 	h2 {
