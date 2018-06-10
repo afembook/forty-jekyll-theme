@@ -11,7 +11,7 @@ show-menu: true
 ## What is the Edinburgh Anarchist Feminist Bookfair?
 The Edinburgh Anarchist Feminist Bookfair is an all-day event open to everybody, not just anarchists or feminists. We want to provide an open, and welcoming point for people of all genders to learn more about both anarchism and feminism, as well for as folks organising on the ground to explore ideas in-depth together, work through concepts and reach concrete plans.
 
-The bookfair will start at 10:30 and run until 18:00 on Saturday the 21st of July, 2018. As well as space for stalls from publishers, book shops, zine makers and grassroots organising campaigns we'll be hosting workshops and talks throughout the day on a wide range of issues, from abortion rights to mutual aid, social reproduction theory to housing, sex work to community accountability. There'll even be a practical session on vehicle maintenance for women and non-binary folk if we can find somewhere to park!
+The bookfair will start at 10:30 and run until 18:00 on Saturday the 21st of July, 2018. As well as space for [stalls]({% link Stalls.md %}) from publishers, book shops, zine makers and grassroots organising campaigns we'll be hosting workshops and [talks]({% link Talks.md %}) throughout the day on a wide range of issues, from abortion rights to mutual aid, social reproduction theory to housing, sex work to community accountability. There'll even be a practical session on vehicle maintenance for women and non-binary folk if we can find somewhere to park!
 
 After the bookfair there will be an afterparty, details of which will be finalised and made public soon.
 
