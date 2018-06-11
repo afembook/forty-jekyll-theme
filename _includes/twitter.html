@@ -4,7 +4,11 @@
 <meta property="og:title" content="Edinburgh Anarchist Feminist Bookfair" />
 <meta property="og:url" content="http://edinburghafb.org" />
 
+{% if page.image %}
+<meta name="twitter:image" content="http://edinburghafb.org/{{ page.image }}" />
+<meta name="twitter:image:src" content="http://edinburghafb.org/{{ page.image }}" />
+{% else %}
 <meta name="twitter:image" content="http://edinburghafb.org/assets/images/unicorn-FINISHED-WEB.jpg" />
 <meta name="twitter:image:src" content="http://edinburghafb.org/assets/images/unicorn-FINISHED-WEB.jpg" />
-
+{% endif %}
 <meta name="twitter:description" content="{{ page.description }}" />
