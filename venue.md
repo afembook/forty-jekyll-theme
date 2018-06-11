@@ -2,7 +2,7 @@
 layout: map
 title: Venue
 landing-title: 'Coming July 21st'
-description: null
+description: 'The Edinburgh Anarchist Feminist Bookfair 2018 will be held at Augustine United Church.'
 image: assets/images/Augustines_Meeting2.jpg
 author: null
 show-menu: true

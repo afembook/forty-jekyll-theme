@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talks
-description: null
+description: 'A list of all the talks at the 2018 Edinburgh Anarchist Feminist Bookfair'
 author: null
 show-menu: true
 nav-menu: true

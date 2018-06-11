@@ -2,7 +2,7 @@
 layout: home
 title: Edinburgh Anarchist Feminist Bookfair 2018
 landing-title: 'Edinburgh Anarchist Feminist Bookfair 2018'
-description: null
+description: 'The Edinburgh Anarchist Feminist Bookfair is an all-day event open to everybody to learn more about anarchism and feminism'
 image: null
 author: null
 show-menu: true

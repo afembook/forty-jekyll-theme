@@ -3,6 +3,7 @@ layout: post
 title: Childcare
 description: null
 image: assets/images/Whos_still_holding_the_baby.jpg
+description: 'In order to make the bookfair as accessible as possible we will be providing free, professional childcare throughout the day for kids from age 6 weeks to 8 years.'
 author: null
 show-menu: true
 nav-menu: true

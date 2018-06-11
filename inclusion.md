@@ -3,6 +3,7 @@ layout: post
 title: Inclusion
 description: null
 image: assets/images/dont_let_racism_divide_us.jpg
+description: 'We want the event to be open and welcoming to groups who support marginalised and oppressed people.'
 author: null
 show-menu: true
 nav-menu: true

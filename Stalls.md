@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stalls
-description: null
+description: 'A list of all the stalls at the 2018 Edinburgh Anarchist Feminist Bookfair'
 author: null
 show-menu: true
 nav-menu: true
