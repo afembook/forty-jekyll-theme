@@ -11,9 +11,9 @@ show-menu: true
 ## What is the Edinburgh Anarchist Feminist Bookfair?
 The Edinburgh Anarchist Feminist Bookfair is an all-day event open to everybody, not just anarchists or feminists. We want to provide an open, and welcoming point for people of all genders to learn more about both anarchism and feminism, as well for as folks organising on the ground to explore ideas in-depth together, work through concepts and reach concrete plans.
 
-The bookfair will start at 10:30 and run until 18:00 on Saturday the 21st of July, 2018. As well as space for [stalls]({% link Stalls.md %}) from publishers, book shops, zine makers and grassroots organising campaigns we'll be hosting workshops and [talks]({% link Talks.md %}) throughout the day on a wide range of issues, from abortion rights to mutual aid, social reproduction theory to housing, sex work to community accountability. There'll even be a practical session on vehicle maintenance for women and non-binary folk if we can find somewhere to park!
+The bookfair will start at 10:30 and run until 18:00 on Saturday the 21st of July, 2018. As well as space for [stalls]({% link Stalls.md %}) from publishers, book shops, zine makers and grassroots organising campaigns we'll be hosting [workshops]({% link Workshops.md %}) and [talks]({% link Talks.md %}) throughout the day on a wide range of issues, from abortion rights to mutual aid, social reproduction theory to housing, sex work to community accountability. There'll even be a practical session on vehicle maintenance for women and non-binary folk if we can find somewhere to park!
 
-After the bookfair there will be an afterparty, details of which will be finalised and made public soon.
+After the books have been cleared away and the workshops are over it's time to party and celebrate. We have a cracking [after party]( https://www.facebook.com/events/185205992189048/) lined-up and more to add soon! 
 
 To help with accessibility, we've arranged for a free, professional crèche. See our [Childcare]({% link childcare.md %}) page for more details if this is something you're interested in.
 
