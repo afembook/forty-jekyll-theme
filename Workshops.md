@@ -32,4 +32,6 @@ This is an autism awareness workshop with a difference. Designed and delivered b
 
 This session will explore the concept of neurodiversity (the idea that different cognitive styles are part of natural human variation) and what it means to be in the neurological minority. It aims to build understanding between autistic and non-autistic participants. 
 
+This workshop will be facilitated by members of the [Autistic Mutual Aid Society, Edinburgh](http://amase.org.uk)
+
 ### More workshops announced soon!
