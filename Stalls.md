@@ -46,6 +46,9 @@ Left-leaning, politically engaged, socially conscious general bookshop in Edinbu
 ## Radical Routes/Redcurrant Housing Co-op
 Radical Routes is a network of radical co-ops whose members are committed to working for positive social change. RedCurrant are a newly established housing co-operative based in Edinburgh and the Lothians. 
 
+## Shakti Women's Aid
+Shakti Women’s Aid helps BME women, children, and young people experiencing, or who have experienced, domestic abuse from a partner, ex-partner, and/ or other members of the household. 
+
 ## Sisters Uncut
 Sisters Uncut is a feminist direct action group taking action to defend domestic violence services.
 

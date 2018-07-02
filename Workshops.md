@@ -6,6 +6,9 @@ author: null
 show-menu: true
 nav-menu: true
 ---
+## Beyond Self-Care Mantras - More than just bubble baths
+
+Self-Care is everywhere and we are all supposed to be doing it! But what is it really? and is it enough? This workshop aims to critique the politics of self-care, and explore ideas on radical caring communities.
 
 ## No Woman Is Safe If Prostitutes Aren’t Safe: feminism and sex worker rights
 
