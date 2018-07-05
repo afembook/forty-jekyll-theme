@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talks
-description: 'From social reproduction theory to housing, abortion to gender, learn more at the Edinburgh Anarchist Feminist Bookfair'
+description: 'From decolonisation to housing, abortion to gender, learn more at the Edinburgh Anarchist Feminist Bookfair'
 author: null
 show-menu: true
 nav-menu: true
