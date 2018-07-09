@@ -32,15 +32,20 @@ If you need assistance on the day of the Bookfair, please ask one of our volunte
 ## Session information
 *	Talks and workshops will last either 50 minutes or 80 minutes, and there will be a 10 minute break between sessions.  
 *	The full programme will be provided online and we will make every effort to ensure that the format is suitable for screen readers. On the day of the Bookfair the programme will be displayed on a screen at the entrance to the venue and on posters throughout the venue, but we will not provide paper copies. 
+*	We will endevour to make any handouts from workshops or talks available online after the event.
 
 ## Catering
 *	Tea, coffee and biscuits will be available for a donation, and options will be provided for a range of dietary requirements.
 *	Lunch will not be provided at the venue but attendees are welcome to bring food in.
 *	[Euan’s Guide](https://www.euansguide.com/) can help you locate restaurants and shops near the venue that meet your access needs.
+*	Please do not bring any smelly, or hot, food into any workshop or talk. 
 
 ## Transport
 *	Lothian Buses routes 23, 27, 41, 42 and 67 stop directly outside the venue on George IV Bridge, and routes 2, 45 and 300 stop 200m away on Chambers Street. Information on bus accessibility can be found on the [Lothian Buses](https://lothianbuses.co.uk/about-us/community/accessible-buses) website.
 *	Although the venue is a short distance from Waverley Station, much of the route is uphill. 
 *	Accessible taxis are widely available.
 
+## Sensitivities
+*	Whether to allow applause within talks will be up to the discretion of the organiser of each workshop or talk. If you would like to request people not applaud at any session please let either the organiser of that session or any volunteer with a staff badge know.
+*	There will be spare ear defenders available from the information desk.
 
