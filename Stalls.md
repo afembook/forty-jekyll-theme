@@ -31,9 +31,6 @@ A regional Anti-Fascist direct-action group aimed at mobilising, pre-empting and
 ## Footprint Workers Co-operative
 Footprint is a worker co-operative based at Cornerstone Resource Centre, Chapeltown, Leeds. We print booklets, zines, leaflets, stickers, newsletters, fliers, books, CD wallets and that sort of gubbins.
 
-## Info44
-Info44 is an anarchist bookstore, providing Stockholm with books, zines, and other relevant food for thought.
-
 ## IWW
 We are the Edinburgh branch of the Industrial Workers of the World, a radical bottom-up union, without paid officials and controlled by its members.
 
