@@ -18,7 +18,8 @@ Amongst other things, I will mention the anti-slavery Haitian Revolution of 1791
 
 Mattia Ventre is a student activist. As an undergraduate Social Anthropology student, Mattia co-designed and co-planned a 'Decolonising Anthropology' conference and other events. As a student activist, Mattia contributed to the [recent occupation](https://edinburghfuturesinstitute.wordpress.com/) of the Gordon Aikman Lecture Theatre at Edinburgh University for 6 weeks, amongst other things.
 
-## 12:00–12:50 Kurdish Feminism
+## 12:00–12:50 Jin, Jîyan, Azadî: Women, Life, Freedom
+In Kurdish the word life comes from the word women. As such, women equal life. As Kurdish leader Abdullah Ocalan once said “there can be no life without women’s liberation”. The science of women’s liberation in the Kurdish movement is one which has inspired not only Kurdish women but women all around the world to fight against hegemonic masculinity, fascism and barbarism on the frontline.
 
 ## 13:00–13:50 Making Sense of Anarchism
 What is anarchism? Why are there so many different interpretations of anarchism? Is there a basic minimum on which all anarchists must agree – and if so what is it? This discussion looks at the different theoretical approaches to understanding anarchism, the necessary differences in anarchist movements identities and practices – and explores routes for principled solidarity that avoid assumptions about a single universal definition.
@@ -31,6 +32,9 @@ This talk will give an introduction to the often misunderstood question of what 
 Tanya F has a lifetime of experience with both gender and sexuality but very little experience of writing about themselves in the third person. They are an active member of the [Anarchist Federation](https://afed.org.uk), founded the [Edinburgh Chapter of Action for Trans Health](https://edinburghath.tumblr.com/) (Most Hated Manifesto award from Mumsnet 2017-18) and was part of the organising group for AFem2014, an International Anarcha-Feminist Conference. You can find their inactive blogs at [Floaker](https://floaker.net) and [Anarcutie](https://anarcutie.tumblr.com)
 
 ## 15:00–16:20 Fighting for Choice: Reproductive Rights in the UK and Ireland
+Earlier this year, the [repeal the 8th](https://www.togetherforyes.ie/) campaign was successful in removing the ban on abortion in Ireland, after a landslide victory in a public referendum. We will be joined by members of the [Workers Solidarity Movement](https://www.wsm.ie/) (WSM), Ireland's largest anarchist organisation, who were heavily involved in the Repeal the 8th campaign.
+
+We will discuss how anarchists were involved in organising and campaigning ahead of the referendum, and the challenges they faced working as part of a much broader, less radical coalition. As well as the recent victory, we will be talking about what comes next in the struggle for reproductive rights and bodily autonomy in Ireland and Scotland.
 
 ## 16:30–17:50 Homes for People, Not for Profit
 Housing is an issue that affects everyone, but it affects some people more than others. Class, gender, ethnicity and immigration status can all impact access to housing, in addition to the well-publicised generational inequalities. In this session speakers from [Living Rent](https://www.livingrent.org), [Edinburgh Student Housing Co-Op](https://edinburghcoop.wordpress.com/), and [Housing Action Southwark and Lambeth](https://housingactionsouthwarkandlambeth.wordpress.com/) will discuss responses to the housing crisis, and alternatives to housing for profit.

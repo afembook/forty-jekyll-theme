@@ -13,7 +13,14 @@ Using the framework of [social reproduction theory](https://www.youtube.com/watc
 
 Led by Ramona ([libcom.org](http://libcom.org), [Edinburgh Anarchist Federation](http://edinburghaf.noflag.org.uk)) we will discuss how parenting and childhood are created under capitalism. The feminised work of childcare and home making are crucial not only for capitalism to function, but also for the working class to replenish and nurture itself. Despite the many advances won by the women’s movement since the 1970s, the workers movement continues to overlook the importance of struggles beyond the workplace. But is resistance against exploitation and oppression in the home part of the class struggle? And how do we as adults and parents take part in turning children into the compliant workforce of the future? This workshop will invite your opinions and experiences, whether you are a parent or not!
 
-## 12:00–12:50 Responses to Patriarchy for Men and Non-Binary People
+## 12:00–12:50 Responses to Patriarchy 
+This workshop is an opportunity to discuss what it means live within patriarchy and the experience of masculinity in our society. It will be grounded in a feminist discussion of male privilege, power and patriarchy. The workshop is intended as a step towards building the connections, relationships and networks of people necessary to effectively oppose patriarchy.
+
+The workshop will participatory and will involve some small group work. Every effort will be made to ensure that the space is as safe as possible, accessible and relevant to marginalised people.
+
+The workshop will be facilitated by Dave Shand who, amongst other things, is a queer, white, working class, cis, anarchist, farmer and herbalist from Scotland. He can be contacted at rawcabbage (at) riseup (dot) net and welcomes any questions or comments about this workshop.
+
+Note that it is requested that no cis women attend this workshop.
 
 ## 13:00–13:50 No Woman Is Safe If Prostitutes Aren’t Safe: Feminism and Sex Worker Rights
 
@@ -22,6 +29,8 @@ Sex worker rights are too-often caught in a trap between liberal feminist perspe
 Molly Smith is a prostitute and sex worker rights organiser based in Edinburgh. She works with both [SWARM](https://www.swarmcollective.org/) and [SCOT-PEP](http://www.scot-pep.org.uk/), and is co-author of [‘REVOLTING PROSTITUTES: the fight for sex workers’ rights’](https://www.versobooks.com/books/2752-revolting-prostitutes), due out in October from Verso.
 
 ## 13:00–13:50 Vehicle Maintenance for Women and Non-Binary People
+
+Vehicle mechanics can be a confusing and daunting world. This isn't made easier when many people are excluded from understanding even the basics, or patronised and ignored, because of their gender. This session for women and non-binary people only will show you some basic vehicle maintenance tips to allow people to look after their own vehicles and help others and will also include how to change a wheel. It'll be outside at a parked car under the venue. Meet at the front entrance and we'll walk down together.
 
 ## 14:00–14:50 Survival Pending Revolution: Building Mutual Aid
 
