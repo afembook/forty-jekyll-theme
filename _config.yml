@@ -1,7 +1,7 @@
 # site settings
-title: Edinburgh Anarchist Feminist Bookfair 2018
+title: Edinburgh Anarchist Feminist Bookfair 2019
 email: eafb@riseup.net
-description: An Anarchist Feminist Bookfair at Augustine United Church in Edinburgh
+description: An Anarchist Feminist Bookfair at City of Edinburgh Methodist Church
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:

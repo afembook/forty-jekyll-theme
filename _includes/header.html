@@ -7,7 +7,7 @@
 	{% if page.show-menu == true %}
 	<nav>
 
-		<a href="#menu">Menu</a>
+		<a href="#menu">EAFB 2018</a>
 
 	</nav>
 	{% endif %}
@@ -24,15 +24,6 @@
 
 		{% assign sorted_pages = site.pages | sort:"title" %}
 
-        {% for page in sorted_pages %}
-
-		    {% if page.layout == "home" %}
-
-		        <li><a href="{{ "" | absolute_url }}/">Home</a></li>
-
-	    	{% endif %}
-
-		{% endfor %}
 
 		{% for page in sorted_pages %}
 
